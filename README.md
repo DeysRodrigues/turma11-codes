@@ -13,7 +13,7 @@ Este repositório é destinado ao armazenamento e compartilhamento dos códigos 
 **Como contribuir:**
 
 1. **Faça um fork** deste repositório.
-2. **Crie uma branch** para cada atividade.
+2. **Crie uma branch** com seu nome para fazer seus codigos.
 3. **Adicione seus códigos** à branch correspondente.
 4. **Faça um pull request** para mesclar suas alterações com o repositório principal.
 
