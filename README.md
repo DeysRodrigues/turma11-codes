@@ -1,6 +1,3 @@
-## **Absolutamente! Aqui está um modelo de README para o repositório da sua turma:**
-
-**README.md**
 
 ### **Repositório de Códigos - Turma 11**
 
