@@ -7,15 +7,14 @@ Este repositório é destinado ao armazenamento e compartilhamento dos códigos 
 
 **Estrutura:**
 
-* **Atividades:** Cada atividade terá sua própria pasta, nomeada de forma clara e intuitiva (por exemplo, "atividade1", "atividade2").
-* **Códigos:** Dentro de cada pasta da atividade, os códigos dos alunos serão armazenados em arquivos individuais, preferencialmente com nomes que identifiquem o aluno e a atividade (por exemplo, "joao_silva_atividade1.py").
+* **Datas:** Cada atividade terá sua própria data, nomeada de forma clara e intuitiva (por exemplo, 16-09, 17-09).
+* **Códigos:** Dentro de cada pasta da atividade, os códigos dos alunos serão armazenados em arquivos individuais, preferencialmente com nomes que identifiquem o aluno (por exemplo, "joao_silva.py").
 
 **Como contribuir:**
 
-1. **Faça um fork** deste repositório.
-2. **Crie uma branch** com seu nome para fazer seus codigos.
-3. **Adicione seus códigos** à branch correspondente.
-4. **Faça um pull request** para mesclar suas alterações com o repositório principal.
+1. **Crie uma branch** com seu nome para fazer seus codigos.
+2. **Adicione seus códigos** à branch correspondente.
+3. **Faça um pull request** para mesclar suas alterações com o repositório principal.
 
 **Diretrizes:**
 
@@ -34,10 +33,11 @@ Este repositório é destinado ao armazenamento e compartilhamento dos códigos 
 ```
 turma11/
 ├── atividades/
-│   ├── atividade1/
-│   │   ├── joao_silva_atividade1.py
-│   │   └── maria_silva_atividade1.py
-│   └── atividade2/
+│   ├── 17-09/    
+│   │   ├── joao_silva.py
+│   │   ├── maria_silva.py
+│   │   └── sobre.md
+│   └── 18-09/
 │       ├── ...
 └── README.md
 ```
